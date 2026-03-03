@@ -93,6 +93,8 @@ openjaw-core-template/
 ├── scripts/
 │   └── init-workspace.sh
 ├── SECURITY.md
+├── AUDIT_REPORT.md
+├── SECURITY_NOTES.md
 ├── LICENSE
 └── README.md
 ```
